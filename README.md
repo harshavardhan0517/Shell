@@ -1,2 +1,2 @@
 # Shell
-Schell Scripts edit fetch.
+Schell Scripts
